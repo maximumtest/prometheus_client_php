@@ -1,5 +1,5 @@
 {
-    "name": "maximumtest/prometheus_client_php",
+    "name": "endclothing/prometheus_client_php",
     "description": "Prometheus instrumentation library for PHP applications.",
     "type": "library",
     "license": "Apache-2.0",
@@ -44,6 +44,5 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
